@@ -614,7 +614,7 @@ export default function App() {
 
       {/* Chat Panel */}
       <div 
-        className={`transition-all duration-500 ease-in-out overflow-hidden border-l border-gray-200 bg-white flex flex-col ${isChatOpen ? 'w-full md:w-[400px]' : 'w-0 border-l-0'}`}
+        className={`transition-all duration-500 ease-in-out overflow-hidden border-l border-gray-200 bg-white flex flex-col ${isChatOpen ? 'w-full md:w-[500px]' : 'w-0 border-l-0'}`}
       >
         <ChatBot isOpen={isChatOpen} setIsOpen={setIsChatOpen} />
       </div>
