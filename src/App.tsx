@@ -184,16 +184,6 @@ const Hero = () => (
       className="w-full h-full object-cover"
       referrerPolicy="no-referrer"
     />
-    <div className="absolute inset-0 bg-black/30 flex items-center justify-center">
-      <div className="text-center text-white px-4">
-        <h2 className="text-2xl md:text-4xl lg:text-5xl font-bold mb-4 drop-shadow-lg">
-          Welcome to ACPC Gujarat
-        </h2>
-        <p className="text-lg md:text-xl max-w-2xl mx-auto drop-shadow-md">
-          Empowering students through transparent and merit-based professional admissions.
-        </p>
-      </div>
-    </div>
   </div>
 );
 
