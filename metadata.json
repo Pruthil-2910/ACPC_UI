@@ -1,0 +1,5 @@
+{
+  "name": "ACPC Gujarat Chatbot",
+  "description": "A replica of the ACPC Gujarat website with an integrated AI support chatbot.",
+  "requestFramePermissions": []
+}
